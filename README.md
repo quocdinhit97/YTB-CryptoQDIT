@@ -5,10 +5,10 @@ Các bạn tải nó về và import vào chương trình của mình hoặc có
 
 Các bạn xem video của mình để tham khảo code
 
-mình sẽ giải thích 3 hàm sử dụng trong class này
+### 3 hàm sử dụng
 
-RemoveQditURL(string URL, string ex) //Hàm này có nhiệm vụ xóa phần đuôi đã mã hóa
+<code>RemoveQditURL(string URL, string ex)</code> //Hàm này có nhiệm vụ xóa phần đuôi đã mã hóa
 
-EncryptFile(string password, string in_file, string out_file) // Hàm mã hóa file
+<code>EncryptFile(string password, string in_file, string out_file)</code> // Hàm mã hóa file 
 
-DecryptFile(string password, string in_file, string out_file) // Hàm giải mã
+<code>DecryptFile(string password, string in_file, string out_file)</code> // Hàm giải mã
